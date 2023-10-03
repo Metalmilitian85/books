@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Myst: The Book of Atrus",
+        "category": "Fiction",
+        "pic": "/mystboa.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Myst: The Book of Ti'Ana",
+        "category": "Fiction",
+        "pic": "/mystbot.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Myst: The Book of D'ni",
+        "category": "Fiction",
+        "pic": "/mystbod.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Zakk Wylde: Bringing Metal to the Children",
+        "category": "Non-Fiction",
+        "pic": "/zakkwylde.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Where's Waldo",
+        "category": "Children's",
+        "pic": "/waldo.jpg"
+    },
+    {
+        "id": 6,
+        "title": "ABC's",
+        "category": "Children's",
+        "pic": "/abc.webp"
+    },
+    {
+        "id": 7,
+        "title": "TIME",
+        "category": "News",
+        "pic": "/time.webp"
+    }
+]
